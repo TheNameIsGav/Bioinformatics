@@ -1,0 +1,6 @@
+﻿  FindMostFrequentWords.cpp
+D:\Code\School Coding\Bioinformatics\FindMostFrequentWords\FindMostFrequentWords.cpp(37,36): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Code\School Coding\Bioinformatics\FindMostFrequentWords\FindMostFrequentWords.cpp(69,25): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Code\School Coding\Bioinformatics\FindMostFrequentWords\FindMostFrequentWords.cpp(78,23): warning C4018: '<=': signed/unsigned mismatch
+D:\Code\School Coding\Bioinformatics\FindMostFrequentWords\FindMostFrequentWords.cpp(84,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  FindMostFrequentWords.vcxproj -> D:\Code\School Coding\Bioinformatics\FindMostFrequentWords\Debug\FindMostFrequentWords.exe

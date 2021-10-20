@@ -1,0 +1,5 @@
+﻿  GCSkewPlotter.cpp
+D:\Code\School Coding\Bioinformatics\GCSkewPlotter\GCSkewPlotter.cpp(15,35): warning C4553: '==': result of expression not used; did you intend '='?
+D:\Code\School Coding\Bioinformatics\GCSkewPlotter\GCSkewPlotter.cpp(16,35): warning C4553: '==': result of expression not used; did you intend '='?
+D:\Code\School Coding\Bioinformatics\GCSkewPlotter\GCSkewPlotter.cpp(20,23): warning C4018: '<=': signed/unsigned mismatch
+  GCSkewPlotter.vcxproj -> D:\Code\School Coding\Bioinformatics\GCSkewPlotter\Debug\GCSkewPlotter.exe

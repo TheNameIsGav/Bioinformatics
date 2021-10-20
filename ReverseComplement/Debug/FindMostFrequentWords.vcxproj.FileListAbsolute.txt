@@ -1,0 +1,2 @@
+D:\Code\School Coding\Bioinformatics\ReverseComplement\Debug\ReverseComplement.exe
+D:\Code\School Coding\Bioinformatics\ReverseComplement\Debug\ReverseComplement.pdb

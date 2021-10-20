@@ -1,0 +1,8 @@
+﻿  ReverseComplement.cpp
+D:\Code\School Coding\Bioinformatics\ReverseComplement\ReverseComplement.cpp(34,36): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Code\School Coding\Bioinformatics\ReverseComplement\ReverseComplement.cpp(78,23): warning C4018: '<': signed/unsigned mismatch
+D:\Code\School Coding\Bioinformatics\ReverseComplement\ReverseComplement.cpp(90,23): warning C4018: '<': signed/unsigned mismatch
+D:\Code\School Coding\Bioinformatics\ReverseComplement\ReverseComplement.cpp(159,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Code\School Coding\Bioinformatics\ReverseComplement\ReverseComplement.cpp(167,23): warning C4018: '<': signed/unsigned mismatch
+D:\Code\School Coding\Bioinformatics\ReverseComplement\ReverseComplement.cpp(179,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  FindMostFrequentWords.vcxproj -> D:\Code\School Coding\Bioinformatics\ReverseComplement\Debug\ReverseComplement.exe

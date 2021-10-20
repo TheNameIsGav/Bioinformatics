@@ -1,0 +1,2 @@
+D:\Code\School Coding\Bioinformatics\GCSkewPlotter\Debug\GCSkewPlotter.exe
+D:\Code\School Coding\Bioinformatics\GCSkewPlotter\Debug\GCSkewPlotter.pdb
